@@ -1,0 +1,5 @@
+//LW: est passé par ici le Time-stamp: <2021-04-02 18:56:51 wl>
+//LW: is almost happy, because the filename is NOT in french...
+//LW: solution: git mv ancienom nouveaunom
+Remi DEWAME
+Axel ROELANTS
